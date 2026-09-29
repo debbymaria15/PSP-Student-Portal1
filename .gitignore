@@ -3,7 +3,6 @@
 config.local.php
 
 # Local database exports and backups
-*.sql
 *.sql.zip
 *.bak
 
